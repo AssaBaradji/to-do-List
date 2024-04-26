@@ -28,7 +28,7 @@ Installation et Utilisation
 Clonez ce dépôt sur votre machine locale :
 bash
 Copy code
-git clone https://github.com/votre-utilisateur/nom-du-projet.git
+git clone https://github.com/AssaBaradji/to-do-List.git
 Ouvrez le fichier index.html dans votre navigateur web.
 Commencez à créer et à gérer vos listes de tâches!
 
